@@ -8,3 +8,5 @@
 <h2>Form view: localhost:PORT/</h2>
 
 <h2>Form view: localhost:PORT/list</h2>
+
+<h2>PORT: It is the port where the application will be executed, React js places the value of 3000 by default</h2>
